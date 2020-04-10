@@ -27,7 +27,7 @@ public class AppConstants {
     public static String URL_GOOGLE_CIVIC = "https://www.googleapis.com/civicinfo/v2/representatives?key=";
     public static String URL_GOOGLE_CIVIC_TRAILING = "&address=";
 
-    public static String API_KEY = "AIzaSyDhaN_rVSbDjyzVl1nH2yp1ezxb6ZG4Axc"; // API KEY
+    public static String API_KEY = "Your google civic API Key Here"; // API KEY
     public static String TWITTER_KEY = "Twitter";
     public static String FACEBOOK_KEY = "Facebook";
     public static String YOUTUBE_KEY = "YouTube";
